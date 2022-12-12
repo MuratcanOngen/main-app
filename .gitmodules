@@ -1,0 +1,3 @@
+[submodule "SubModules/Lib1"]
+	path = SubModules/Lib1
+	url = https://github.com/MuratcanOngen/library_1.git
